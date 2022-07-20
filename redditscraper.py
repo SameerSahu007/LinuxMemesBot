@@ -19,7 +19,6 @@ async def scan_posts():
              url_links.append(submission.title)
              url_links.append(submission.author.name)
              break
-    print(url_links)
     return url_links
 
 
