@@ -42,7 +42,8 @@ TELEGRAM_API =
 ```
 
 ## Usage
-```python bot.py
+```
+python bot.py
 ```
 
 ## Contributing
