@@ -1,6 +1,6 @@
 # LinuxMemesBot
 
-This is a simple telegram bot that get some memes from r/linuxmemes and post it in a telegram channel.
+This is a telegram bot that get some memes from r/linuxmemes and post it in a telegram channel.
 
 ## Installation
 
